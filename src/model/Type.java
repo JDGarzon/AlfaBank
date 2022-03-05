@@ -2,5 +2,5 @@ package model;
 
 
 public enum Type {
-	deposite,spending;
+	deposite,spend;
 }
